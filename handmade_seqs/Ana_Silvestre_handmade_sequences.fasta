@@ -1,0 +1,23 @@
+>Sequência com as 4 ambiguidades
+AUGAGSGUDUCYAAMAGRUGA
+
+>Primeira sequência sem ambiguidades
+AUGAGCGUAUCUAACAGGUGA
+
+>Segunda sequência sem ambiguidades
+AUGAGGGUUUCCAAAAGAUGA
+
+>Terceira sequência sem ambiguidades
+AUGAGCGUGUCUAACAGGUGA 
+
+>Sequência reverse (3ª)
+AGUGGACAAUCUGUGCGAGUA
+
+>Sequência complement (3ª)
+TACTCGCACAGATTGTCCACT
+
+>Sequência reverse-complement (3ª)
+TCACCTGTTAGACACGCTCAT
+
+>Produção dos aminoácidos (3ª)
+MSVSNRW
