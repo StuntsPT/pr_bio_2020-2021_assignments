@@ -1,0 +1,23 @@
+>Original sequence
+ATGHTCGTAGGAGATCGCTAT
+
+>Sequence 1
+ATGATCGTAGGAGATCGCTAT
+
+>Sequence 2
+ATGTTCGTAGGAGATCGCTAT
+
+>Sequence 3
+ATGCTCGTAGGAGATCGCTAT
+
+>Reverse of the second sequence
+TATCGCTAGAGGATGCTTGTA
+
+>Complement of the third sequence
+TACGAGCATCCTCTAGCGATA
+
+>Reverse-complement of the first sequence
+ATAGCGATCTCCTACGATCAT
+
+>Amino-acid chain that sequence 1 produces
+MIVGDRY
