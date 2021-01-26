@@ -1,0 +1,17 @@
+>Ambigous sequence
+ATGATDACCGCBGGHTCVTTG 
+>Unambiguous_A
+ATGATAACCGCCGGGTCATTG 
+>Unambiguous_B
+ATGATGACCGCTGGATCCTTG 
+>Unambiguous_C
+ATGATTACCGCGGGTTCGTTG 
+>Reverse of Unambiguous_A
+GTTACTGGGCCGCCAATAGTA
+>Complement of Unambiguous_A
+TACTATTGGCGGCCCAGTAAC 
+>Reverse-Complement Unambiguous_A
+CAATGACCCGGCGGTTATCAT
+>Translation of Unambiguous_A
+MITAGYL
+
