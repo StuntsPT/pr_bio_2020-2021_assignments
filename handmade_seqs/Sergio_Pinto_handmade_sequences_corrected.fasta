@@ -1,0 +1,23 @@
+>Base pair sequence
+ACGSATAAGCCTWCRATCCGH
+
+>1st Possible unambiguous sequence
+ACGGATAAGCCTTCAATCCGT
+
+>2nd Possible unambiguous sequence
+ACGCATAAGCCTACAATCCGA
+
+>3rd Possible unambiguous sequence
+ACGGATAAGCCTACGATCCGC
+
+>Reverse sequence
+CGCCTAGCATCCGAATAGGCA
+
+>Complement sequence
+TGCCTATTCGGATGCTAGGCG
+
+>Reverse Complement sequence
+GCGGATCGTAGGCTTATCCGT
+
+>Amino-acid chain produced
+TDKPTIR
