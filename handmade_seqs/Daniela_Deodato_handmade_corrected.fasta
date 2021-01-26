@@ -1,0 +1,16 @@
+>DNA sequence with 4 ambiguities
+ATGAGTASDATCAWCCCCTGA
+>1st possible unambiguos sequence
+ATGAGTACTATCATCCCCTGA
+>2nd possible unambiguos sequence
+ATGAGTAGGATCAACCCCTGA
+>3rd possible unambiguos sequence
+ATGAGTAGAATCATCCCCTGA
+>3rd possible unambiguos sequence in reverse
+AGTCCCCTACTAAGATGAGTA
+>3rd possible unambiguos sequence in complement
+TACTCATCTTAGTAGGGGACT
+>3rd possible unambiguos sequence in reverse-complement
+TCAGGGGATGATTCTACTCAT
+>amino-acid chain the 3rd sequence produces 
+MSRIIP
