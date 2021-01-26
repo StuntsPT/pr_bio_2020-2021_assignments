@@ -1,0 +1,16 @@
+>Sequência de 21 bases com 4 ambiguidades:
+ ATGRCATYGCASTGCMATGDC
+>1ª possibilidade de desambiguar a sequência:
+ ATGACATCGCAGTGCAATGAC
+>2º posssibilidade de desambiguar a sequência:
+ ATGGCATTGCACTGCCATGGC
+>3ª posssibilidade de desambiguar a sequência: 
+ATGGCATTGCACTGCCATGTC
+>Reverso da 1º sequência (desambiguada):
+ CAGTAACGTGACGCTACAGTA
+>O seu complementar:
+ TACTGTAGCGTCACGTTACTG
+>O seu complementar reverso:
+ GTCATTGCACTGCGATGTCAT
+>O seus aminoácidos correpondentes:
+ITSQCND
