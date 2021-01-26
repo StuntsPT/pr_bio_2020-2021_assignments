@@ -1,0 +1,16 @@
+>Ambiguous sequence 
+ATGCSCGTTAGAWATGVTTGA
+>Unambiguous sequence 1
+ATGCCCGTTAGATATGGTTGA
+>Unambiguous sequence 2
+ATGCGCGTTAGAAATGGTTGA
+>Unambiguous sequence 3
+ATGCCCGTTAGAAATGCTTGA
+>Unambiguous Sequence 1 Reverse
+AGTTGGTATAGATTGCCCGTA
+>Unambiguous Sequence 1 Complement
+TACGGGCAATCTATACCAACT
+>Unambiguous Sequence 1 Reverse-Complement
+TCAACCATATCTAACGGGCAT
+>Amino-acid chain produced by Unambiguous sequence 1
+MPVRYGXX
