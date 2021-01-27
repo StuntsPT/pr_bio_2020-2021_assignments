@@ -1,0 +1,16 @@
+> Base pair sequence
+CTATAGCGATATATCCATCGA
+> 1st Possible unambiguous sequence
+CTAKAGCRATATATSCATCGA
+> 2nd Possible unambiguous sequence
+CTATRGCGMTAWATCCATCGA
+> 3rd Possible unambiguous sequence
+CTATVGCDAYATATCCATCGA
+> Reverse sequence
+AGCTACCTAWATMGCGRTATC
+> Complement sequence
+TCGATGGATATATCGCTATAG
+> Reverse complement sequence
+GATATCGCTATATAGGTAGCT
+> Amino-acid chain produced by the 2nd sequence
+SMDISL
