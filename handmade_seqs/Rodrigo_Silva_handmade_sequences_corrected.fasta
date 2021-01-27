@@ -1,0 +1,23 @@
+>Sequence identifier
+ATGGVGCBCGCCDACHGATGA
+
+>Umbiguous_01
+ATGGCGCCCGCCGACTGATGA
+
+>Umbiguous_02
+ATGGGGCTCGCCTACCGATGA
+
+>Umbiguous_03
+ATGGAGCGCGCCAACAGATGA
+
+>Complement of the Umbiguous_03
+TACCACGCGCGGTTGTCTAGT
+
+>Reverse of the Umbiguous_03
+AGTAGACAACCGCGCGAGGTA
+
+>Reverse-complement of the Umbiguous_03
+TCATCTGTTGGCGCGCTCCAT
+
+>Translation of Umbiguos_03
+MERABR*
