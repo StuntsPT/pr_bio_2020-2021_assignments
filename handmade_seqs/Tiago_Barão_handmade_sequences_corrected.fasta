@@ -1,0 +1,23 @@
+>Sequences with 4 ambiguities
+AUGRGAUACCUGVUGHACWAU
+
+>Possible sequence 1
+AUGAGAUACCUGAUGCACAAU
+
+>Possible sequence 2
+AUGGGUACCUGCUGUACUAU
+
+>Possible sequence 3
+AUGAGAUACCUGGUGAACUAU
+
+>Complement of the chosen sequence (sequence 1)
+UACUCUAUGGACUACGUGUUA
+
+>Reverse of the chosen sequence (sequence 1)
+UAACACGUAGUCCAUAGAGUA
+
+>Reverse complement of the chosen sequence (sequence 1)
+AUUGUGCAUCAGGUAUCUCAU
+
+>Amino acids using the 1 letter encoding
+MRYLMHN
