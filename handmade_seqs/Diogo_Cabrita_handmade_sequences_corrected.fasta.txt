@@ -1,0 +1,16 @@
+>Ambiguous sequence
+AUGRAGGCCAWGUCYCCGSCU
+>Unambiguous_01
+AUGAAGGCCAAGUCTCCGCCU
+>Unambiguous_02
+AUGGAGGCCATGUCCCCGCCU
+>Unambiguous_03
+AUGAAGGCCATGUCTCCGGCU
+>The reverse of Unabiguous_02
+UCCGCCCCUGTACCGGAGGUA
+>The complement of Unambiguous_02
+TUCCTCCGGTACUGGGGCGGU
+>The reverse-complement of Unambiguous_02
+UGGCGGGGUCATGGCCTCCUT
+>The translation of Unambiguous_02
+MLALSPA
