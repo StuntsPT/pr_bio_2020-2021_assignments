@@ -1,0 +1,26 @@
+Sequência com 4 Ambiguidades:
+ARC TYG TGC SGC CAT GWA CTA
+
+1ª Sequência sem Ambiguidades:
+AACTCGTGCCGCCATGTACTA
+
+2ª Sequência sem Ambiguidades:
+AGC TTG  TGC GGC CAT GAA CTA
+
+3ª Sequência sem Ambiguidades:
+AAC TTG  TGC CGC CAT GAA CTA
+
+
+
+O reverso da 1ª Sequência:
+ATC ATG TAC CGC CGT GCT CAA
+
+O complemento da 1ª Sequência:
+TTG AGC ACG GCG GTA CAT GAT
+
+O complemento reverso da 1ª Sequência:
+TAG TAC ATG GCG GCA CGA GTT
+
+
+A Produção dos aminoácidos da 1ª Sequência:
+NSCRHVL
