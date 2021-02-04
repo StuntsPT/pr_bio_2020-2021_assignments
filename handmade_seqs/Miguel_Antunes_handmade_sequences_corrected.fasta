@@ -1,0 +1,26 @@
+
+- Write up a 21 base pair sequence that contains 4 ambiguities
+ATCRTCGDTNATCGWCGATGA 
+
+- Possible unambiguous sequence 1
+ATCATCGATCATCGATCGATC 
+
+- Possible unambiguous sequence 2
+ATCGTCGATAGATCGATCGAT 
+
+- Possible unambiguous sequence 3
+ATCATCGATGATCGTCGATGA
+
+- Reverse of the unambiguous sequence 1
+TAGCTAGCTAGATAGCTGCTA
+
+- Complement of the unambiguous sequence 1
+ATCGATCGATCTATCGACGAT
+
+- Reverse complement of the unambiguous sequence 1
+TAGCAGCTATCTAGCTAGCTA
+
+-The amino-acid chain it produces sequence 1
+IVDRSID
+
+
