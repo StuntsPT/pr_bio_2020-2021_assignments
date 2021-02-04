@@ -1,0 +1,21 @@
+>Sequence with 4 ambiguities
+AGGTTGRAATVCWAAGTSAAG
+
+>Possible unambiguous sequence 1
+AGGTTGGAATCCTAAGTGAAG
+
+>Possible unambiguous sequence 2
+ATGTGGCGAAAGTTGCGGCCG
+
+>Possible unambiguous sequence 3
+ATGTGGCGAgGGTAGCGGGCG
+
+>Reverse of the possible unambiguous (sequence 1)
+GAAGTGAATCCTAAGGTTGGA
+
+>Complement of the possible unambiguous (sequence 1)
+TCCAACCTTAGGATTCACTTC
+
+>Reverse complement of the possible unambiguous (sequence 1)
+CTTCACTTAGGATTCCAACCT
+
