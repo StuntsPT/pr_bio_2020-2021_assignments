@@ -1,0 +1,27 @@
+>Sequence with 4 ambiguities
+ATGGSAGTGGRCTGYTWCTAA 
+
+>Possible unambiguous sequence 1
+ATGGCAGTGGACTGCTTCTAA
+
+>Possible unambiguous sequence 2
+ATGGGAGTGGCCTGCTTCTAA 
+
+>Possible unambiguous sequence 3
+ATGGCAGTGGCCTGTUTCTAA 
+
+>Reverse of the unambiguous sequence 1
+AATCTTCGTCAGGTGACGGTA 
+
+>Complement of the unambiguous sequence 1
+TACCGTCACCTGACGAAGATT 
+
+>Reverse-complement of the unambiguous sequence 1
+TTAGAAGCAGTCCACTGCCAT
+
+>The amino-acid chain of the unambiguous sequence 1
+MAVDCF
+
+
+
+
