@@ -1,0 +1,10 @@
+Coverage of position number 181:
+9
+Coverage of position number 37481:
+13
+Coverage of position number 2222:
+8
+Coverage of position number 12345:
+19
+Coverage of position number 1:
+1
