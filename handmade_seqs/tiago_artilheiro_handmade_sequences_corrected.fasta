@@ -1,0 +1,23 @@
+>Sequence with 4 ambiguities
+ATGTGGCGAARGTWGCVGSCG
+
+>Possible unambiguous sequence 1
+ATGTGGCGAAGGTTGCCGGCG
+
+>Possible unambiguous sequence 2
+ATGTGGCGAAAGTTGCAGCCG
+
+>Possible unambiguous sequence 3
+ATGTGGCGAAGGTAGCGGGCG
+
+>Reverse of the possible unambiguous (sequence 2)
+GCCGACGTTGAAAGCGGUGTA
+
+>Complement of the possible unambiguous (sequence 2)
+TACACCGCTTTCAACGTCGGC
+
+>Reverse complement of the possible unambiguous (sequence 2)
+CGGCTGCAACTTTCGCCACAT
+
+>The Amino-acid chain using 1 letter encoding (sequence 2)
+MWRKLQP
