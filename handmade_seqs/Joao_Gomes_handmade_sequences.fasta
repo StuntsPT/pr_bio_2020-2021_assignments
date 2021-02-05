@@ -1,0 +1,23 @@
+>Sequence with four ambiguities:
+ATGAGRNAGBCAGCTGARTGA
+
+>Possible unambiguos sequence one:
+ATGAGAAAGCCAGCTGAATGA
+
+>Possible unambiguos sequence two:
+ATGAGGCAGGCAGCTGAATGA
+
+>Possible unambiguos sequence three:
+ATGAGGTAGTCAGCTGAGTGA
+
+>Reverse of unambiguos sequence two:
+AGTAAGTCGACGACGGAGTA
+
+>Complement of unambiguos sequence two:
+TACTCCGTCGTCGACTTACT
+
+>Reverse complement of unambiguos sequence two:
+TCATTCAGCTGCTGCCTCAT
+
+>Amino-acid chain it produces two:
+MRQAAESTOP
