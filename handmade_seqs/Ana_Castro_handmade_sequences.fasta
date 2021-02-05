@@ -1,0 +1,16 @@
+>sequence with 4 ambiguities 
+ATGGCBTGCAAHGTDGGNTGG
+> sequence without ambiguities 1
+ATGGCTTGCAACGTAGGATGG
+>sequence without ambiguities 2
+ATGGCCTGCAATGTGGGCTGG
+>sequence without ambiguities 3
+ATGGCGTGCAAAGTTGGGTGG
+>Sequence 1 in reverse 
+GGTAGGATGCAACGTTCGGTA
+>sequence 1’s complement
+TACCGAACGTTGCATCCTACC
+>sequence 1’s reverse-complement 
+CCATCCTACGTTGCAAGCCAT
+>amino-acid chain sequence 
+MACNVGW
